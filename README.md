@@ -1,2 +1,2 @@
 # Login-Page
-# The simplest HTML framework for user entry to the page
+# The simplest login page in HTML structure
